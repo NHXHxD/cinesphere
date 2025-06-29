@@ -97,7 +97,7 @@ Open `http://localhost:8080` to sign up or sign in.
 ```
   
 ---
-## How to Set Up an Admin Account in the App ?
+## Admin Account Setup
 
  1. Generate the password hash
     Run the hash-password.js file to generate a bcrypt hash for the password admin123.
